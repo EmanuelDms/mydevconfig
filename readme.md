@@ -14,5 +14,6 @@ I use `zsh`
 	- Cheatsheet<br>`source ~/.oh-my-zsh/templates/zshrc.zsh-template`
 
 ## Useful Links
-[Ambiente Javascript: Dicas, VSCode e terminal](https://blog.rocketseat.com.br/ambiente-desenvolvimento-javascript/)<br>[Terminal com Oh My Zsh](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/)
+- [Ambiente Javascript: Dicas, VSCode e terminal](https://blog.rocketseat.com.br/ambiente-desenvolvimento-javascript/)
+- [Terminal com Oh My Zsh](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/)
 
