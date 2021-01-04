@@ -12,6 +12,8 @@ I use `zsh`
 
 - Add-ons ZSH
 	- Cheatsheet<br>`source ~/.oh-my-zsh/templates/zshrc.zsh-template`
+- Making ZSH as default shell
+	- `chsh -s $(which zsh)`
 
 ## Useful Links
 - [Ambiente Javascript: Dicas, VSCode e terminal](https://blog.rocketseat.com.br/ambiente-desenvolvimento-javascript/)
