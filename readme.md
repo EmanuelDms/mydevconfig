@@ -20,7 +20,7 @@ I use `zsh`
 ### settings.json
 There are settings.json file in this repo. You can use.
 
-## Extensions
+### Extensions
 See below the list which contains my favorites extensions.
 1. [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
 1. [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
