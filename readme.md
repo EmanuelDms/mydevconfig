@@ -1,6 +1,5 @@
 # My Development Configuration!
-That repository contains the configuration of my shell.
-I use `zsh`
+That repository contains my developer configuration! Enjoy it!
 
 ## Terminal (shell)
 
