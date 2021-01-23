@@ -32,6 +32,7 @@ See below the list which contains my favorites extensions.
 1. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 1. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 1. [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+1. Live Share
 
 ## Useful Links
 - [Ambiente Javascript: Dicas, VSCode e terminal](https://blog.rocketseat.com.br/ambiente-desenvolvimento-javascript/)
