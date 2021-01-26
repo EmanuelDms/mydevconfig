@@ -33,7 +33,7 @@ See below the list which contains my favorites extensions.
 1. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 1. [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 1. Live Share
-1. [W3C Validation](https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation)
+1. [Web Validator](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator) (W3C Validator and CSS Validator)
 1. [Bootstrap 5 Snippets](https://marketplace.visualstudio.com/items?itemName=HansUXdev.bootstrap5-snippets)
 
 ## Useful Links
