@@ -35,4 +35,4 @@ See below the list which contains my favorites extensions.
 ## Useful Links
 - [Ambiente Javascript: Dicas, VSCode e terminal](https://blog.rocketseat.com.br/ambiente-desenvolvimento-javascript/)
 - [Terminal com Oh My Zsh](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/)
-
+- [Como ativar a opção "Abrir com Visual Studio Code" no Windows](https://codestack.club/questions/1593547/abra-a-pasta-no-vs-code-a-partir-do-windows-explorer)
